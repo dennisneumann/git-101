@@ -3,6 +3,10 @@ body {
 	font-family: Helvetica;
 }
 
+h1 {
+	font-wight:  lighter;
+}
+
 #logo {
 	height: 80px;
 	widows: 80px;
